@@ -270,3 +270,4 @@ contract EncryptedERC20 is Ownable2Step, SepoliaConfig {
         return allowlistAddresses;
     }
 }
+
